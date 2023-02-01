@@ -1,0 +1,14 @@
+{
+    "thsarabunnew": {
+        "normal": "D:\\laraval\\laravel9\\rmutr_donate\\vendor\\dompdf\\dompdf\/lib\/fonts\/THSarabunNew",
+        "bold": "D:\\laraval\\laravel9\\rmutr_donate\\vendor\\dompdf\\dompdf\/lib\/fonts\/THSarabunNew-Bold",
+        "italic": "D:\\laraval\\laravel9\\rmutr_donate\\vendor\\dompdf\\dompdf\/lib\/fonts\/THSarabunNew-Italic",
+        "bold_italic": "D:\\laraval\\laravel9\\rmutr_donate\\vendor\\dompdf\\dompdf\/lib\/fonts\/THSarabunNew-BoldItalic"
+    },
+    "angsananew": {
+        "normal": "D:\\laraval\\laravel9\\rmutr_donate\\vendor\\dompdf\\dompdf\/lib\/fonts\/ANGSA",
+        "bold": "D:\\laraval\\laravel9\\rmutr_donate\\vendor\\dompdf\\dompdf\/lib\/fonts\/angsab",
+        "italic": "D:\\laraval\\laravel9\\rmutr_donate\\vendor\\dompdf\\dompdf\/lib\/fonts\/ANGSAI",
+        "bold_italic": "D:\\laraval\\laravel9\\rmutr_donate\\vendor\\dompdf\\dompdf\/lib\/fonts\/AngsanaNewBoldItalic"
+    }
+}
